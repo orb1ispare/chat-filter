@@ -1,4 +1,12 @@
-# Türkçe Küfürler
+# ═══════════════════════════════════════════════════════════
+# CHAT FILTER WORDLIST - KAPSAMLI VERSIYON
+# Her satıra bir kelime yazın
+# # ile başlayan satırlar yorum satırıdır
+# ═══════════════════════════════════════════════════════════
+
+# ════════════════════════════════════════════════════════════
+# TÜRKÇE KÜFÜRLER
+# ════════════════════════════════════════════════════════════
 amk
 amq
 amına
@@ -6,68 +14,469 @@ amina
 aq
 orospu
 orospucocugu
+orospuçocuğu
+orospuevladı
+orospuevladi
 oç
 piç
+pič
 sik
 sikik
 sikerim
 sikiyim
+sikeyim
+siktir
+siktir git
+siktirgit
 göt
 got
+götün
+gotun
+götüne
+gotune
 yarrak
 yarak
+yarrağım
+yarragim
 taşak
 tasak
+taşşak
+tassak
 amcık
 amcik
-siktir
+amcığını
+amcigini
 pezevenk
 kahpe
+kahpelik
 puşt
+pust
 ibne
+ibine
+top
+eşcinsel
+pipi
+kaka
+bok
+bok gibi
+boktan
+pislik
+köpek
+kopek
+eşek
+esek
+it
+domuz
+kevaşe
+kevaşelik
+sürtük
+surtuk
+fahişe
+fahise
+kaltak
+şerefsiz
+serefsiz
+namussuz
+ahlaksız
+ahlaksiz
+vicdansız
+vicdansiz
+alçak
+alcak
+namaz
+gavat
+boynuzlu
+embesil
+salak
+aptal
+gerizekalı
+geri zekalı
+gerizekalı
+mal
+dangalak
+ahmak
+budala
+dalyarak
+dalyarrak
+manyak
+deli
+götlek
+gotlek
+götoş
+gotos
+götverenn
+gotveren
+sikişelim
+sikiselim
+sikmeyi
+sikmeye
 
-# İngilizce Küfürler
+# ════════════════════════════════════════════════════════════
+# İNGİLİZCE KÜFÜRLER
+# ════════════════════════════════════════════════════════════
 fuck
+fucking
+fucker
+fucked
+fuk
+fck
+fack
+motherfucker
+mofo
 shit
+shitty
+shitter
+sht
+bullshit
 bitch
+bitchy
+bitches
+bastard
 ass
+asshole
+arsehole
+arse
 dick
+dickhead
 cock
 pussy
+pussies
 cunt
-bastard
 whore
 slut
+slutty
+hoe
+hoes
+damn
+dammit
+hell
+piss
+pissed
+retard
+retarded
+idiot
+stupid
+moron
+dumbass
+dumb
+jackass
 nigga
 nigger
+negro
 fag
+faggot
+gay
+homo
+lesbian
+dyke
+tranny
 
-# Cinsellik
+# ════════════════════════════════════════════════════════════
+# CİNSELLİK & +18 İÇERİK
+# ════════════════════════════════════════════════════════════
 sex
+sexy
+seks
+sexual
 porn
+porno
+pornography
 nude
+nudes
 naked
-rape
+sex tape
+sextape
 boob
+boobs
+boobies
+tits
+titties
+breast
+breasts
+nipple
+nipples
+ass
+butt
+buttocks
 penis
+dick
+cock
 vagina
+pussy
+clitoris
+clit
+anal
+oral
+blowjob
+handjob
+masturbate
+masturbation
+orgasm
+cum
+cumming
+ejaculate
+erection
+boner
+horny
+aroused
+fetish
+bdsm
+bondage
+dildo
+vibrator
+condom
+sperm
+viagra
+orgies
+orgy
+threesome
+gangbang
+incest
+rape
+raping
+rapist
+molest
+pedophile
+pedo
+child porn
+loli
+lolicon
+hentai
+ecchi
+ahegao
+camgirl
+onlyfans
+stripper
+prostitute
+escort
+pimp
 
-# Leet Speak
+# ════════════════════════════════════════════════════════════
+# LEET SPEAK & KARAKTER DEĞİŞTİRME
+# ════════════════════════════════════════════════════════════
 4mk
+amq
+4mq
 0r0spu
+oros pu
 s1k
+s!k
+s1ke
+s!ke
+s1kt1r
+s!kt!r
 fck
 fuk
+f*ck
+fu*k
+f**k
 sh1t
+sh!t
+s**t
+b1tch
+b!tch
+b*tch
+a55
+a5s
+p1s
+p!s
+d1ck
+d!ck
+c0ck
+c**k
+pu55y
+pus5y
 
-# Türkçe Hakaret
+# ════════════════════════════════════════════════════════════
+# TÜRKÇE HAKARETLER
+# ════════════════════════════════════════════════════════════
 anan
 anani
+ananı
+ananın
+annenin
+anneni
+annenı
 baban
+babani
+babanı
+babanın
 ölür
+olur
 geberesin
+gebersin
+kancık
+kancik
+sürtük
+surtuk
+yıkık
+yikik
+ezik
+loser
+zavallı
+zavalli
+piç kurusu
+pic kurusu
+adi
+alçak
+alcak
+haysiyetsiz
+şopar
+sopar
+şerefsiz
+serefsiz
+arsız
+arsiz
+edepsiz
+terbiyesiz
+görgüsüz
+gorgusuz
 
-# Dini Hakaret
+# ════════════════════════════════════════════════════════════
+# DİNİ HAKARET
+# ════════════════════════════════════════════════════════════
 allahını
 allahini
+allahına
+allahina
+allanı
+allani
 tanrını
+tanrini
+tanrısını
+tanrisini
+peygamber
+hz
+imam
+hoca
+din
+allah belani
+allah cezanı
+cehennem
+kafir
+
+# ════════════════════════════════════════════════════════════
+# IRKÇILIK & AYRIMCILIK
+# ════════════════════════════════════════════════════════════
+nigger
+nigga
+negro
+coon
+monkey
+ape
+chink
+gook
+spic
+beaner
+wetback
+kike
+jew
+nazi
+hitler
+holocaust
+terrorist
+isis
+taliban
+
+
+# ════════════════════════════════════════════════════════════
+# KİŞİSEL BİLGİ (PHISHING KORUMASI)
+# ════════════════════════════════════════════════════════════
+password
+pass word
+passw0rd
+credit card
+creditcard
+ssn
+social security
+bank account
+bankaccount
+pin code
+pincode
+cvv
+address
+phone number
+phonenumber
+email address
+
+# ════════════════════════════════════════════════════════════
+# UYUŞTURUCU
+# ════════════════════════════════════════════════════════════
+weed
+marijuana
+cannabis
+pot
+drug
+drugs
+cocaine
+coke
+heroin
+meth
+crack
+lsd
+acid
+molly
+ecstasy
+pills
+xanax
+high
+stoned
+blazing
+joint
+blunt
+
+# ════════════════════════════════════════════════════════════
+# GENEL RAHATSIZ EDİCİ İÇERİK
+# ════════════════════════════════════════════════════════════
+vomit
+puke
+pee
+poop
+fart
+burp
+snot
+booger
+period
+menstruation
+tampon
+diarrhea
+
+# ════════════════════════════════════════════════════════════
+# OYUN İÇİ EXPLOIT/HACK TERIMLERI
+# ════════════════════════════════════════════════════════════
+synapse
+krnl
+jjsploit
+evon
+fluxus
+arceus
+solara
+delta
+oxygen
+script executor
+executor
+loadstring
+getgenv
+hookfunction
+hookmetamethod
+firesignal
+getrawmetatable
+setreadonly
+newcclosure
+discord
+dc
+DC
+blue app
+discordd
+dc
+Dc
+dC
+
+# ═══════════════════════════════════════════════════════════
+# NOTLAR
+# ═══════════════════════════════════════════════════════════
+# Bu liste düzenli olarak güncellenmelidir
+# Oyuncu raporlarına göre yeni kelimeler ekleyin
+# Bazı kelimeler context'e göre masum olabilir (örn: "password" eğitim için)
+# Gerekirse FILTER_CONFIG'de whitelist ekleyebilirsiniz
+# ═══════════════════════════════════════════════════════════
